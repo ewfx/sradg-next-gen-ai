@@ -1,0 +1,14 @@
+numpy
+dotenv
+pandas
+streamlit
+openai
+scikit-learn
+langchain
+transformers
+faiss-cpu
+tiktoken
+torch
+os
+langchain_core
+langchain_community
